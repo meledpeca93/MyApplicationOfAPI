@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Branding & Themes -->
+    <color name="primary">#0F62FE</color>
+    <color name="primary_container">#EDF5FF</color>
+    <color name="okhttp_brand">#0288D1</color>
+    <color name="okhttp_container">#E0F7FA</color>
+    <color name="volley_brand">#673AB7</color>
+    <color name="volley_container">#EDE7F6</color>
+
+    <!-- State Colors -->
+    <color name="status_ready_bg">#F1F5F9</color>
+    <color name="status_ready_text">#475569</color>
+
+    <color name="status_loading_bg">#EFF6FF</color>
+    <color name="status_loading_text">#1D4ED8</color>
+
+    <color name="status_success_bg">#DCFCE7</color>
+    <color name="status_success_text">#15803D</color>
+
+    <color name="status_error_bg">#FEE2E2</color>
+    <color name="status_error_text">#B91C1C</color>
+
+    <!-- Code View Theme -->
+    <color name="code_bg">#1E222A</color>
+    <color name="code_header">#21252B</color>
+    <color name="code_text">#61AFEF</color>
+</resources>

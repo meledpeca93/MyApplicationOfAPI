@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Consumo API</string>
+    <string name="title_app">Consumo de APIs REST</string>
+    <string name="subtitle_app">OkHttp &amp; Volley en Android (Java)</string>
+
+    <string name="section_okhttp">OkHttp Engine</string>
+    <string name="section_volley">Volley Engine</string>
+
+    <string name="btn_get">GET Request</string>
+    <string name="btn_post">POST Request</string>
+    <string name="btn_copy">Copiar</string>
+    <string name="btn_clear">Limpiar</string>
+
+    <string name="status_ready">Listo para realizar petición</string>
+    <string name="status_loading">Enviando petición HTTP...</string>
+    <string name="status_success">Petición completada con éxito</string>
+    <string name="status_error">Ocurrió un error en la solicitud</string>
+
+    <string name="response_placeholder">// Seleccione un método (GET / POST) arriba para probar el consumo de la API REST...\n// Las respuestas JSON aparecerán aquí formateadas.</string>
+    <string name="response_header_title">Respuesta JSON</string>
+    <string name="copied_toast">Respuesta copiada al portapapeles</string>
+</resources>
